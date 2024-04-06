@@ -2,7 +2,8 @@
 
 ## Personal License
 
-Tailwind Labs Inc. grants you an on-going, non-exclusive license to use the Components and Templates.
+Tailwind Labs Inc. grants you an on-going, non-exclusive license to use the Components and Templa
+tes.
 
 The license grants permission to **one individual** (the Licensee) to access and use the Components and Templates.
 
